@@ -31,7 +31,12 @@ namespace HtmlExtract
                int startHead = FileText.IndexOf("<head>") + 6;
                int endHead = FileText.IndexOf("</head>");
                string head = FileText.Substring(startHead, endHead - startHead);
-               MessageBox.Show(head);
+               int startBody = FileText.IndexOf("<body>") + 6;
+               int endBody = FileText.IndexOf("</body>");
+               string body = FileText.Substring(startBody, endBody - startBody);
+
+
+               MessageBox.Show(head+body);
            }
 
        

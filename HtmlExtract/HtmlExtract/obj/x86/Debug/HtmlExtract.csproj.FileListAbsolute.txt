@@ -12,3 +12,10 @@ c:\users\дом\documents\visual studio 2010\Projects\HtmlExtract\HtmlExtract\bi
 c:\users\дом\documents\visual studio 2010\Projects\HtmlExtract\HtmlExtract\obj\x86\Debug\HtmlExtract.Form1.resources
 c:\users\дом\documents\visual studio 2010\Projects\HtmlExtract\HtmlExtract\obj\x86\Debug\HtmlExtract.Properties.Resources.resources
 c:\users\дом\documents\visual studio 2010\Projects\HtmlExtract\HtmlExtract\obj\x86\Debug\HtmlExtract.csproj.GenerateResource.Cache
+C:\Users\ДОМ\Documents\GitHub\VisualProgrammingLS\HtmlExtract\HtmlExtract\obj\x86\Debug\HtmlExtract.exe
+C:\Users\ДОМ\Documents\GitHub\VisualProgrammingLS\HtmlExtract\HtmlExtract\obj\x86\Debug\HtmlExtract.pdb
+C:\Users\ДОМ\Documents\GitHub\VisualProgrammingLS\HtmlExtract\HtmlExtract\bin\Debug\HtmlExtract.exe
+C:\Users\ДОМ\Documents\GitHub\VisualProgrammingLS\HtmlExtract\HtmlExtract\bin\Debug\HtmlExtract.pdb
+C:\Users\ДОМ\Documents\GitHub\VisualProgrammingLS\HtmlExtract\HtmlExtract\obj\x86\Debug\HtmlExtract.Form1.resources
+C:\Users\ДОМ\Documents\GitHub\VisualProgrammingLS\HtmlExtract\HtmlExtract\obj\x86\Debug\HtmlExtract.Properties.Resources.resources
+C:\Users\ДОМ\Documents\GitHub\VisualProgrammingLS\HtmlExtract\HtmlExtract\obj\x86\Debug\HtmlExtract.csproj.GenerateResource.Cache
