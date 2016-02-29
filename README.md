@@ -1,2 +1,0 @@
-# VisualProgrammingLS
-Hello
