@@ -1,0 +1,4 @@
+*.exe
+HtmlExtract/HtmlExtract/bin/Debug/HtmlExtract.vshost.exe
+HtmlExtract/HtmlExtract/obj/x86/Debug/DesignTimeResolveAssemblyReferences.cache
+HtmlExtract/HtmlExtract/obj/x86/Debug/HtmlExtract.csproj.FileListAbsolute.txt
