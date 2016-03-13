@@ -19,3 +19,11 @@ C:\Users\ДОМ\Documents\GitHub\VisualProgrammingLS\HtmlExtract\HtmlExtract\bin
 C:\Users\ДОМ\Documents\GitHub\VisualProgrammingLS\HtmlExtract\HtmlExtract\obj\x86\Debug\HtmlExtract.Form1.resources
 C:\Users\ДОМ\Documents\GitHub\VisualProgrammingLS\HtmlExtract\HtmlExtract\obj\x86\Debug\HtmlExtract.Properties.Resources.resources
 C:\Users\ДОМ\Documents\GitHub\VisualProgrammingLS\HtmlExtract\HtmlExtract\obj\x86\Debug\HtmlExtract.csproj.GenerateResource.Cache
+C:\Users\Elen\Documents\GitHub\VisualProgrammingLS\HtmlExtract\HtmlExtract\obj\x86\Debug\HtmlExtract.exe
+C:\Users\Elen\Documents\GitHub\VisualProgrammingLS\HtmlExtract\HtmlExtract\obj\x86\Debug\HtmlExtract.pdb
+C:\Users\Elen\Documents\GitHub\VisualProgrammingLS\HtmlExtract\HtmlExtract\bin\Debug\HtmlExtract.exe
+C:\Users\Elen\Documents\GitHub\VisualProgrammingLS\HtmlExtract\HtmlExtract\bin\Debug\HtmlExtract.pdb
+C:\Users\Elen\Documents\GitHub\VisualProgrammingLS\HtmlExtract\HtmlExtract\obj\x86\Debug\HtmlExtract.csprojResolveAssemblyReference.cache
+C:\Users\Elen\Documents\GitHub\VisualProgrammingLS\HtmlExtract\HtmlExtract\obj\x86\Debug\HtmlExtract.Form1.resources
+C:\Users\Elen\Documents\GitHub\VisualProgrammingLS\HtmlExtract\HtmlExtract\obj\x86\Debug\HtmlExtract.Properties.Resources.resources
+C:\Users\Elen\Documents\GitHub\VisualProgrammingLS\HtmlExtract\HtmlExtract\obj\x86\Debug\HtmlExtract.csproj.GenerateResource.Cache

@@ -28,7 +28,9 @@ namespace HtmlExtract
                 string headText = MyFile.Extract(HtmlFile.Tag.head);
                 string bodyText = MyFile.Extract(HtmlFile.Tag.body);
 
-                MessageBox.Show(headText + "\n" + bodyText);
+                label1.Text = headText + "\n" + bodyText;
+
+                //MessageBox.Show(headText + "\n" + bodyText);
             }
             
         }
