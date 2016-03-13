@@ -20,12 +20,12 @@ namespace HtmlExtract
 
         private void btnPick_Click(object sender, EventArgs e)
         {
-            string WayToTheFile ;
+            string FilePath;
             OpenFileDialog ofd = new OpenFileDialog();
            if  (ofd.ShowDialog()== DialogResult.OK)
-           {
-               WayToTheFile = ofd.FileName;
-               StreamReader sr = new StreamReader(WayToTheFile);
+            
+               FilePath = ofd.FileName;
+           StreamReader sr = new StreamReader(FilePath = ofd.FileName);
                string FileText = sr.ReadToEnd();
                StringBuilder sb = new StringBuilder(FileText);
                int startHead = FileText.IndexOf("<head>") + 6;
@@ -36,12 +36,12 @@ namespace HtmlExtract
                string body = FileText.Substring(startBody, endBody - startBody);
 
 
-               MessageBox.Show(head+body);
+               MessageBox.Show(head + body);
            }
 
        
-        }
+      }
 
       
     }
-}
+
