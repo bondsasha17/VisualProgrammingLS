@@ -26,9 +26,11 @@ namespace HtmlExtract
             string FileText = sr.ReadToEnd();
 
             string tagName = Enum.GetName(typeof(Tag), tag);
-            int startTag = FileText.IndexOf("<" + tagName + ">") + tagName.Length + 2;
-            int endTag = FileText.IndexOf("</" + tagName + ">");
-            string tagText = FileText.Substring(startTag, endTag - startTag);
+
+            string tagText = FileText.Substring(FileText.IndexOf("<" + tagName) + tagName.Length + 1);
+            tagText = tagText.Substring(tagText.IndexOf(">") + 1, tagText.IndexOf("</" + tagName) - 1);
+
+      
 
             while (tagText.IndexOf("<") != -1)
             {

@@ -30,7 +30,6 @@ namespace HtmlExtract
 
                 label1.Text = headText + "\n" + bodyText;
 
-                //MessageBox.Show(headText + "\n" + bodyText);
             }
             
         }
